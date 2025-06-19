@@ -1,5 +1,10 @@
-#bgimg {
+.bgimg {
     background-image: url(race.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
     /* animation-name: move;
     animation-duration: 3s;
     animation-iteration-count: infinite; */
